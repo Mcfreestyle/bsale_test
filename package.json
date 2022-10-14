@@ -4,8 +4,6 @@
   "description": "Bsale test",
   "main": "index.html",
   "scripts": {
-    "start": "npm run lite",
-    "lite": "npx lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
