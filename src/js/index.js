@@ -1,4 +1,4 @@
-const API_URL = 'http://bsale-test-bckend.herokuapp.com/api';
+const API_URL = 'https://bsale-test-bckend.herokuapp.com/api';
 
 initialLoad();
 
